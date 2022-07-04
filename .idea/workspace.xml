@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89e5cd8a-3033-4895-9b2b-e74d762b259a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CarPark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Commands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Van.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CarSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkingLot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarPark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarPark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarkParkInfoCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarkParkInfoCommands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeCommands.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

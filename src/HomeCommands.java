@@ -8,6 +8,13 @@ public class HomeCommands extends Commands{
         printGreeting("the Car Park");
         printCommands();
         int userInput = getCommandInput();
+        if(userInput == 1){
+            setNextCommands("park");
+        } else if (userInput == 2) {
+            setNextCommands("info");
+        }else {
+            setNextCommands("");
+        }
 
     }
 
